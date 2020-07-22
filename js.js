@@ -3,7 +3,7 @@ var listitems = document.querySelectorAll('div');
 	
 	listitems[i].addEventListener('click',
 	(e)=>{
-		if nothover{
+		if(nothover){
 			var daedap = prompt("히든코드는?")
 			if(daedap == "jym"){
 				alert("맞히셨습니다."+"\n"+"축하드립니다.");

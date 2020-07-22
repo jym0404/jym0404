@@ -37,5 +37,5 @@ var a
 	}
 
   );*/
-document.getElementsByClassName("mouse").onmouseover = function() { nothover = false; }
-document.getElementsByClassName("mouse").onmouseout  = function() { nothover = true; }
+document.getElementsByClassName("mouse").onmouseenter = function() { nothover = false; }
+document.getElementsByClassName("mouse").onmouseleave  = function() { nothover = true; }

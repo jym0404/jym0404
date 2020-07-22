@@ -1,3 +1,4 @@
+var nothover = true
 var listitems = document.querySelectorAll('div');
 	for(var i = 0;i<listitems.length; i++) {
 	
@@ -36,5 +37,5 @@ var a
 	}
 
   );*/
-document.getElementsByClass("mouse").onmouseover = function() { nothover = false; }
-document.getElementsByClass("mouse").onmouseout  = function() { nothover = true; }
+document.getElementsByClassName("mouse").onmouseover = function() { nothover = false; }
+document.getElementsByClassName("mouse").onmouseout  = function() { nothover = true; }

@@ -1,0 +1,83 @@
+.q{
+	cursor: pointer;
+}
+.q:hover{
+	background: #a0bedb;
+}
+.w{
+	cursor: wait;
+}
+.w:hover{
+	background: #a0bedb;
+}
+.e{
+	cursor: all-scroll;
+}
+.e:hover{
+	background: #a0bedb;
+}
+.r{
+	cursor: no-drop;
+}
+.r:hover{
+	background: #a0bedb;
+}
+body{
+	text-align: center;
+	background: #0f7a6f
+}
+.m{
+	background: #00ff00;
+	width: 300px;
+	margin: auto;
+	padding: 10px;
+	border-radius: 30px;
+}
+h6{
+	color: #2f7d6f;
+	cursor: default;
+}
+h6:hover{
+	color: #0f7a6f;
+	cursor: default;
+}
+.t{
+	cursor: help;
+}
+.t:hover{
+	background: #a0bedb;
+}
+.y{
+	cursor: progress;
+}
+.y:hover{
+	background: #a0bedb;
+}
+.u{
+	cursor: none;
+}
+.u:hover{
+	background: #a0bedb;
+}
+.i{
+	cursor: col-resize;
+}
+.i:hover{
+	background: #a0bedb;
+}
+.o{
+	cursor: text;
+}
+.o:hover{
+	background: #a0bedb;
+}
+.p{
+	cursor: vertical-text;
+}
+.p:hover{
+	background: #a0bedb;
+}
+li{
+	border: solid 1px #000000;
+	padding: 2px;
+}
